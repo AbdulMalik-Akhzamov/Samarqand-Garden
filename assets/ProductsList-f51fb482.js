@@ -1,0 +1,1 @@
+import{u as s,o as t,c as o,a,e as c,f as r}from"./index-c1701fd4.js";const n={class:"container"},l={__name:"ProductsList",props:["category"],setup(u){const e=s().params.id;return(i,d)=>(t(),o("div",n,[a(r,{id:c(e)},null,8,["id"])]))}};export{l as default};
