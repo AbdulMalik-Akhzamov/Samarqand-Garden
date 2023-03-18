@@ -1,0 +1,1 @@
+import{_ as e,o as t,c,b as s}from"./index-dd60df5d.js";const a={},o={class:"header-cart"},r=s("div",{class:"header-cart-item"},"cart",-1),_=[r];function n(d,i){return t(),c("div",o,_)}const h=e(a,[["render",n]]);export{h as default};
